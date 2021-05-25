@@ -2,7 +2,7 @@
 
 - 优美而强大的网页魔方
 
-- 地址: <https://jdjwzxapimfy.rth.app>
+- 地址: <https://jdjwzxapimf.rth.app>
 
   <img width="120px" src="https://gitee.com/huazhechen/cuber/raw/master/resource/icon.png"  alt="icon"/>
 
